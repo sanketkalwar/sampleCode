@@ -2,7 +2,7 @@
 	<body>
 		<div>
 			<li>sand</li>
-			<li>motorn 1</li>
+			<li>motorn 2</li>
 		</div>
 	</body>
 </html>
